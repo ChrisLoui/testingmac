@@ -19,7 +19,6 @@ class CalculatorView : ViewModel() {
 
 
 
-
     fun onButtonClick(btn : String){
         Log.i("Clicked Button", btn)
 
